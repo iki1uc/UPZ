@@ -1,64 +1,94 @@
-# WHIRL – 9×9 RESPO‑Launcher · NC²□ Drift‑Matrix
+# UPZ · Universal Pulse Zenith (Hyper‑Score)
 
-WHIRL ist der zentrale rotierende 81‑Felder‑Launcher für alle RESPO‑Module.
-Er verbindet die moderne RESPO‑Matrix (OCTA/REAL/Quadrant) mit dem älteren
-AnPI · SQRT‑API‑NC²□ System und führt beide Systeme in einer einheitlichen
-NC‑Drift‑Struktur zusammen.
+UPZ ist der Hyper‑Score des 9×9‑Systems.  
+Er liegt über der Meta‑Ebene (UPY) und bildet den Zenith‑Punkt  
+zwischen Meta‑Yield und Hyper‑Struktur.
 
-──────────────────────────────────────────────
-## 🔹 WHIRL‑Zweck
-- Rotiert automatisch durch alle 81 Felder
-- Startet jedes RESPO‑Modul direkt aus der Matrix
-- Verbindet alte NC²□‑Drift‑Engines mit neuen RESPO‑Modulen
-- Keine manuelle Arbeit notwendig
-- Voll kompatibel mit OCTA, REAL, Quadrant, whirl.json
+UPZ ist der geometrische und energetische Spitzenwert des Score‑Systems.  
+Er verbindet UFI (Überfluss), EFE (Effizienz/Schwund) und UPY (Yield)  
+zu einem hyperstabilen Zenith‑Score.
 
-──────────────────────────────────────────────
-## 🔹 Eingebundene RESPO‑Module
-Alle RESPO‑Repos werden automatisch geladen:
+---
 
-- RESPOx  
-- RESPO_ARG_SCAN  
-- RESPO_UI_STATUS  
-- RESPO-MULTI-NORM  
-- RESPO-Code-Pipeline  
-- RESPO  
-- RESPO-Beam-Point  
-- RESPO.Ort-LAGE  
-- RESPO-Station  
-- RESPO-Name  
-- RESPO_MODUL_LOOP  
-- respo-scan-hub.app  
-- RESPO_CORE_ROUTER  
-- Respo-Rotation  
-- respo-ghost-bridge.cloud  
-- RESPO_MOTION_PRIME  
-- RESPO_POSITION_USER  
+## 1. Identität (ID.html)
 
-──────────────────────────────────────────────
-## 🔹 Verbindung zum alten System (AnPI · SQRT‑API‑NC²□)
-WHIRL integriert folgende ältere Module:
+UPZ besitzt eine Hyper‑Achsen‑Identität:
 
-- SQRT‑Room (Wurzel‑Engine)
-- API.room / API.raw / API.system.js
-- NC²□ Drift‑Visualizer
-- RUN8‑WURZEL‑RESPO
-- T.room / h.room
-- Meta‑Drift‑Monitor6D
-- NC²□ Sync‑Visualizer
+ID = AXIS(UZ)⟡
 
-Diese Module werden über WHIRL automatisch in die 9×9‑Matrix eingebunden.
+AXIS(UZ) ∈ {N, S, E, W, UP, DOWN, IN, OUT}  
+⟡ = INNER(ZENITH)
 
-──────────────────────────────────────────────
-## 🔹 Dateien in diesem Repository
-- `whirl.json` – Rotationsmatrix (81 Felder)
-- `index.html` – grafischer WHIRL‑Launcher
-- `REAL.json` – 9×9 Routing‑Matrix
-- `octa.json` – OCTA‑Definition
-- `quadrant.json` – Quadranten‑Routing
-- `README.md` – diese Dokumentation
+Der UPZ‑Kern repräsentiert den höchsten neutralen Score‑Punkt  
+innerhalb der 9×9‑Struktur.
 
-──────────────────────────────────────────────
-## 🔹 Startpunkt
-WHIRL kann direkt über `index.html` gestartet werden.
-Alle RESPO‑Module sind sofort anwählbar.
+---
+
+## 2. Score‑Struktur (score-bedeutung-3.csv)
+
+UPZ ist der dritte Score‑Typ:
+
+1. UFI (Überfluss)
+2. EFE (Effizienz/Schwund)
+3. UPZ (Zenith)
+
+Mathematisch:
+
+UPZ = √(UFI · EFE)
+
+Damit ist UPZ der geometrische Mittelwert der beiden Kräfte.
+
+---
+
+## 3. Geo‑Form‑Kompatibilität (geo-form-kompatibel-mit-3.csv)
+
+UPZ ist kompatibel mit den drei Hyper‑Formen:
+
+- Zenith‑Kreis (Hyper‑Neutralität)
+- Hyper‑Achse (Erhöhung)
+- Hyper‑Kreuzung (Zenith‑Punkt)
+
+Diese Formen definieren die geometrische Darstellung des UPZ‑Symbols.
+
+---
+
+## 4. Schnittstellen‑Bandbreite (schnittstelle-bandbreite-6.csv)
+
+UPZ besitzt 6 Hyper‑Schnittstellen:
+
+- Meta → Hyper
+- Hyper → Ultra
+- Score → Verhalten
+- Verhalten → Zyklus
+- Zyklus → Modul
+- Modul → System
+
+Damit ist UPZ vollständig kompatibel mit Hyper‑Modulen (HY · PE · PER).
+
+---
+
+## 5. Systemintegration
+
+UPZ ist kompatibel mit:
+
+- RUN8 (N, S, E, W, UP, DOWN, IN, OUT)
+- UFO = 9^9 (Zentrum)
+- 6‑BLOCK (HOME, TRANS, WARB, KANAL, UFO, CONTINIUM)
+- VLOU (81 × 3)
+- KOOP · POOK · 0000
+- UFI / EFE / UPY (Score‑System)
+
+UPZ ist der Hyper‑Score des 9×9‑Systems.
+
+---
+
+## 6. Dateien im Repository
+
+- **ID.html** – Hyper‑Score‑Symbol  
+- **index.html** – Score‑Zenith‑Demo  
+- **README.md** – Dokumentation  
+- **geo-form-kompatibel-mit-3.csv** – Geo‑Matrix  
+- **schnittstelle-bandbreite-6.csv** – Schnittstellenmatrix  
+- **score-bedeutung-3.csv** – Score‑Matrix
+
+UPZ ist Modul 6/9 des 9×9‑Systems.
